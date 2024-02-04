@@ -1,0 +1,16 @@
+const numbers = [10, 13, 14, 15, 16, 17, 18];
+console.log(numbers);
+numbers.push(12, 15, 45);
+console.log(numbers);
+numbers.pop();
+numbers.pop();
+numbers.pop();
+numbers.pop();
+numbers.pop();
+numbers.pop();
+numbers.pop();
+const out1 =  numbers.pop();
+const out2 =  numbers.pop();
+console.log(numbers);
+console.log(out1);
+console.log(out2);
