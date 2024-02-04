@@ -7,4 +7,6 @@ console.log(booleans);
 // strings in array
 const strings = ['abul', 'kabul', 'mokbul', 'safin']
 console.log(strings);
-
+// mixed array
+const mixed = ["mokbul", 58, true]
+console.log(mixed)
